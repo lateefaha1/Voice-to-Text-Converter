@@ -1,0 +1,31 @@
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+button:focus {
+    outline: 0;
+}
+
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 100px 50px;
+    text-align: center;
+}
+
+.container h1 {
+    margin-bottom: 20px;
+}
+
+.app {
+    margin: 40px auto;
+}
+
+#note-textarea {
+    margin: 20px 0;
+}
+
+#recording-instructions {
+    margin: 15px auto 60px;
+}
